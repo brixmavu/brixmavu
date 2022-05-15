@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @brixmavu
-- 👀 I’m interested in good and JavaScript
-- 🌱 I’m currently making People pay me to do things I like.
-- 💞️ I’m looking to collaborate on projects that helps humanity.
 - 📫 How to reach me -> mavubb@gmail.com
 
 <!---
